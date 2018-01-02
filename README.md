@@ -1,4 +1,4 @@
-#Wave Generator
+# Wave Generator
 (Actually I don't konw what should it be called officially)
 
 ## Language
